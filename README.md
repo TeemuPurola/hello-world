@@ -7,3 +7,4 @@ PR Test commit
 Master Test
 Master test 2
 Master test 3
+Master test 4
