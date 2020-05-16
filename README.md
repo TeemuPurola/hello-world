@@ -4,3 +4,4 @@ Test
 Test
 Test from VSCode
 PR Test commit
+Master Test
