@@ -6,3 +6,4 @@ Test from VSCode
 PR Test commit
 Master Test
 Master test 2
+Master test 3
